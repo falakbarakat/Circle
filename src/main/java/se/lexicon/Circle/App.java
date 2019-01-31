@@ -14,5 +14,4 @@ public class App
 	    	 Circle c1=new Circle();
 	    	 System.out.println(c1.area(10.0));
 	    }
-
 }
